@@ -1,0 +1,895 @@
+[技能:Skills]
+振奋:Adrenaline  1
+突破耐力上限:Stamina Cap Up  1
+毅力:Guts  1  Weapon  +1
+剥取名人:Carving Master  1
+钝器能手:Bludgeoner  1
+无属性强化:Non-Elemental Boost  1
+强运:Great Luck  1
+捕获名人:Capture Master  1
+风压完全无效:Nullify Wind Pressure  1
+加速再生:Hasten Recovery  1  Weapon  +1
+拔刀术[力]:Punishing Draw  1
+刚刃研磨:Protective Polish  1
+毒伤害强化:Poison Duration Up  1
+属性会心:Critical Element  1
+心眼/弹道强化:Mind's Eye/Ballistic  1
+达人艺:Master's Touch  1
+防御强化:Guard Up  1
+超回复力:Super Recovery  1
+利刃/弹药节约:Razor Sharp/Spare Shot  1  Weapon  +1
+会心攻击[特殊]:Critical Status  1
+幸运:Good Luck  1
+弓蓄力等级提升:Bow Charge Plus  1
+滑走强化:Affinity Sliding  1
+挑战者:Agitator  5
+飞燕:Airborne  1
+适应水场:Aquatic Expert  3
+炮术:Artillery  3
+烤肉达人:BBQ Master  1
+爆破属性强化:Blast Attack  3
+爆破异常状态耐性:Blast Resistance  3
+裂伤耐性:Bleeding Resistance  3
+属性异常状态耐性:Blight Resistance  3
+闪光强化:Blindsider  1
+炸弹客:Bombardier  3
+植物学:Botanist  4
+炮弹填装UP:Capacity Boost  1
+剥取铁人:Carving Pro  1
+攀岩者:Cliffhanger  1
+体术:Constitution  5
+超会心:Critical Boost  3
+拔刀术[技]:Critical Draw  3
+看破:Critical Eye  7
+防御:Defense Boost  7
+察觉:Detector  1
+精灵加护:Divine Blessing  3
+龙属性攻击强化:Dragon Attack  5
+龙属性耐性:Dragon Resistance  3
+异臭名人:Dungmaster  1
+耳塞:Earplugs  5
+瘴气耐性:Effluvia Resistance  3
+适应瘴气环境:Effluvial Expert  1
+龙封力强化:Elderseal Boost  1
+昆虫标本达人:Entomologist  3
+回避距离UP:Evade Extender  3
+回避性能:Evade Window  5
+火属性攻击强化:Fire Attack  5
+火属性耐性:Fire Resistance  3
+减轻胆怯:Flinch Free  3
+集中:Focus  3
+探索者的幸运:Forager's Luck  1
+不屈:Fortify  1
+属性解放/装填扩充:Free Elem/Ammo Up  3
+满足感:Free Meal  1
+地质学:Geologist  3
+防御性能:Guard  5
+匠:Handicraft  5
+体力增强:Health Boost  3
+热伤害无效:Heat Guard  1
+炮击手:Heavy Artillery  2
+火场怪力:Heroics  5
+蜂蜜猎人:Honey Hunter  1
+吹笛名人:Horn Maestro  1
+饥饿耐性:Hunger Resistance  3
+冰属性攻击强化:Ice Attack  5
+冰属性耐性:Ice Resistance  3
+威吓:Intimidator  3
+防御力DOWN耐性:Iron Skin  3
+道具使用强化:Item Prolonger  3
+跳跃铁人:Jump Master  1
+力量解放:Latent Power  5
+飞身跃入:Leap of Faith  1
+跑者:Marathon Runner  3
+钓鱼名人:Master Fisher  1
+采集达人:Master Gatherer  1
+骑乘名人:Master Mounter  1
+精神抖擞:Maximum Might  3
+泥耐性:Muck Resistance  1
+最爱菇类:Mushroomancer  3
+通常弹·通常箭强化:Normal Shots  1
+指示随从:Palico Rally  5
+麻痹属性攻击强化:Paralysis Attack  3
+麻痹属性耐性:Paralysis Resistance  3
+破坏王:Partbreaker  3
+无伤:Peak Performance  3
+贯通弹·龙之箭强化:Piercing Shots  1
+毒属性攻击强化:Poison Attack  3
+毒属性耐性:Poison Resistance  3
+强化持续:Power Prolonger  3
+搬运达人:Pro Transporter  1
+纳刀术:Quick Sheath  3
+回复速度:Recovery Speed  3
+体力回复量UP:Recovery Up  3
+怨恨:Resentment  5
+死里逃生:Resuscitate  1
+追踪达人:Scenthound  1
+研究者:Scholar  1
+导虫反应距离Up:Scoutfly Range Up  1
+睡眠属性攻击强化:Sleep Attack  3
+睡眠属性耐性:Sleep Resistance  3
+投射器装填数UP:Slinger Capacity  3
+KO术:Slugger  2
+特殊射击强化:Special Ammo Boost  2
+蹲下移动速度UP:Speed Crawler  1
+快吃:Speed Eating  3
+砥石使用高速化:Speed Sharpening  3
+棉花孢子草知识:Sporepuff Expert  3
+散弹·刚射强化:Spread/Power Shots  1
+耐力急速回复:Stamina Surge  3
+夺取耐力:Stamina Thief  3
+潜伏:Stealth  3
+昏厥耐性:Stun Resistance  3
+雷属性攻击强化:Thunder Attack  5
+雷属性耐性:Thunder Resistance  3
+整备:Tool Specialist  3
+耐震:Tremor Resistance  3
+水属性攻击强化:Water Attack  5
+水属性耐性:Water Resistance  3
+弱点特效:Weakness Exploit  3
+广域化:Wide-Range  5
+风压耐性:Windproof  5
+攻击:Attack Boost  7
+爆破瓶追加:Blast Functionality  1
+麻痹瓶追加:Paralysis Functionality  1
+毒瓶追加:Poison Functionality  1
+睡眠瓶追加:Sleep Functionality  1
+
+[装饰:Decorations]
+Antiblast  1  Blast Resistance
+Antidote  1  Poison Resistance
+Antipara  1  Paralysis Resistance
+Artillery  1  Artillery
+Attack  1  Attack Boost
+Blast  1  Blast Attack
+Blastcoat  3  Blast Functionality
+Blaze  1  Fire Attack
+Bolt  1  Thunder Attack
+Bomber  1  Bombardier
+Botany  1  Botanist
+Brace  3  Flinch Free
+Challenger  2  Agitator
+Crisis  1  Resuscitate
+Critical Boost  2  Critical Boost
+Def Lock  1  Iron Skin
+Defense  1  Defense Boost
+Destroyer  1  Partbreaker
+Dragon  1  Dragon Attack
+Drag Res  1  Dragon Resistance
+Dragonseal  3  Elderseal Boost
+Drain  1  Stamina Thief
+Draw  2  Critical Draw
+Earplug  3  Earplugs
+Elementless  2  Non-Elemental Boost
+Enduring  1  Item Prolonger
+Enhancer  2  Power Prolonger
+Evasion  2  Evade Window
+Expert  1  Critical Eye
+Fast Charge  2  Focus
+Fire Res  1  Fire Resistance
+Flawless  2  Peak Performance
+Flight  2  Airborne
+Footing  2  Tremor Resistance
+Forceshot  3  Normal Shots
+Fortitude  1  Fortify
+Friendship  1  Wide-Range
+Frost  1  Ice Attack
+Fungiform  1  Mushroomancer
+Furor  2  Resentment
+Geology  1  Geologist
+Gobbler  1  Speed Eating
+Grinder  1  Speed Sharpening
+Handicraft  3  Handicraft
+Heavy Artillery  1  Heavy Artillery
+Hungerless  1  Hunger Resistance
+Ice Res  1  Ice Resistance
+Intimidator  1  Intimidator
+Ironwall  1  Guard
+Jumping  2  Evade Extender
+KO  2  Slugger
+Magazine  2  Capacity Boost
+Maintenance  1  Tool Specialist
+Medicine  1  Recovery Up
+Meowster  1  Palico Rally
+Miasma  1  Effluvia Resistance
+Mighty Bow  2  Bow Charge Plus
+Mighty  2  Maximum Might
+Mind's Eye  2  Mind's Eye/Ballistic
+Mirewalker  1  Aquatic Expert
+Paracoat  3  Paralysis Functionality
+Paralyzer  1  Paralysis Attack
+Pep  1  Sleep Resistance
+Physique  2  Constitution
+Pierce  3  Piercing Shots
+Poisoncoat  3  Poison Functionality
+Potential  2  Heroics
+Protection  1  Divine Blessing
+Recovery  1  Recovery Speed
+Refresh  2  Stamina Surge
+Release  3  Free Elem/Ammo Up
+Resistor  1  Blight Resistance
+Satiated  1  Free Meal
+Scent  1  Scenthound
+Sharp  1  Protective Polish
+Sheath  1  Quick Sheath
+Shield  2  Guard Up
+Sleep  1  Sleep Attack
+Sleepcoat  3  Sleep Functionality
+Slider  2  Affinity Sliding
+Smoke  1  Sporepuff Expert
+Sonorous  1  Horn Maestro
+Specimen  1  Entomologist
+Spread  3  Spread/Power Shots
+Sprinter  2  Marathon Runner
+Steadfast  1  Stun Resistance
+Stonethrower  1  Slinger Capacity
+Stream  1  Water Attack
+Suture  1  Bleeding Resistance
+Tenderizer  2  Weakness Exploit
+Throttle  2  Latent Power
+Thunder Res  1  Thunder Resistance
+Tip Toe  1  Stealth
+Trueshot  1  Special Ammo Boost
+Venom  1  Poison Attack
+Vitality  1  Health Boost
+Water Res  1  Water Resistance
+Wind Resist  2  Windproof
+
+[护石:Charms]
+Artillery  Artillery+3
+Attack  Attack Boost+3
+Awakening  Free Elem/Ammo Up+2
+Blast  Blast Resistance+3
+Blast Coating  Blast Functionality+1
+Blaze  Fire Attack+3
+Bleed  Bleeding Resistance+3
+Blessing  Divine Blessing+3
+Blight  Blight Resistance+3
+Breaker  Partbreaker+2
+Bulwark  Guard Up+1  Resuscitate+1
+Botany  Botanist+3
+Bombardier  Bombardier+3
+Capacity  Capacity Boost+1
+Critical  Critical Boost+1
+Challenger  Agitator+2
+Clearmind  Heat Guard+1  Effluvial Expert+1
+Defense  Defense Boost+3
+Demolition  Blast Attack+3
+Dispersal  Spread/Power Shots+1
+Dragon  Dragon Resistance+3
+Draw  Critical Draw+2
+Earplugs  Earplugs+3
+Enervate  Stamina Thief+3
+Evasion  Evade Window+3
+Exploiter  Weakness Exploit+2
+Extension  Item Prolonger+3
+Fitness  Constitution+3
+Fair Wind  Attack Boost+1  Divine Blessing+1
+Fire  Fire Resistance+3
+Friendship  Wide-Range+3
+Frost  Ice Attack+3
+Fortification  Fortify+1
+Flood  Water Attack+3
+Focus  Focus+2
+Fury  Resentment+2
+Gale  Affinity Sliding+1  Airborne+1
+Gatherer's  Master Gatherer+1  Carving Pro+1
+Geomancy  Forager's Luck+1  Detector+1
+Geology  Geologist+3
+Glutton's  Speed Eating+3
+Guard  Iron Skin+3
+Handicraft  Handicraft+3
+Health  Health Boost+3
+Hungerless  Hunger Resistance+3
+Heavy Artillery  Heavy Artillery+2
+Hunter's Life  BBQ Master+1  Master Fisher+1
+Invigorate  Power Prolonger+2
+Insect  Entomologist+3
+Intimidator  Intimidator+3
+Ice  Ice Resistance+3
+Impact  Flinch Free+2
+Immobilize  Paralysis Attack+3
+Ironside  Guard+3
+Grit  Heroics+2
+KO  Slugger+3
+Leaping  Evade Extender+2
+Light Eater's  Free Meal+1
+Marathon  Marathon Runner+2
+Master's  Critical Eye+3
+Maintenance  Tool Specialist+3
+Miasma  Effluvia Resistance+3
+Mighty  Maximum Might+2
+Mud Puppy  Muck Resistance+1  Leap of Faith+1
+Mushroom  Mushroomancer+2
+Mirewalker  Aquatic Expert+3
+Normal Shots  Normal Shots+1
+Para Coating  Paralysis Functionality+1
+Paralysis  Paralysis Resistance+3
+Penetration  Piercing Shots+1
+Poison Coating  Poison Functionality+1
+Poison  Poison Resistance+3
+Power  Latent Power+1
+Procurer's  Pro Transporter+1  Honey Hunter+1
+Performer's  Horn Maestro+1
+Rally  Palico Rally+3
+Recovery  Recovery Up+3
+Rider  Master Mounter+1  Jump Master+1
+Shock  Thunder Attack+3
+Sheath  Quick Sheath+3
+Sleep  Sleep Resistance+3
+Sleep Coating  Sleep Functionality+1
+Slinger  Slinger Capacity+3
+Speed Heal  Recovery Speed+3
+Stealth  Stealth+3
+Smoke  Sporepuff Expert+3
+Stun  Stun Resistance+3
+Surveyor's  Scoutfly Range Up+1  Scholar+1
+Surge  Stamina Surge+2
+Tranq  Sleep Attack+3
+Tremor  Tremor Resistance+2
+Tracker  Scenthound+1
+Trickshot  Dungmaster+1  Blindsider+1
+TrickshotII  Special Ammo Boost+2
+Thunder  Thunder Resistance+3
+Unscathed  Peak Performance+1
+Venom  Poison Attack+3
+Water  Water Resistance+3
+Whetstone  Speed Sharpening+3
+Windproof  Windproof+3
+Wyrmsbane  Dragon Attack+3
+Wyrmslayer  Elderseal Boost+1  Dragon Attack+1
+
+[头:Helms]
+合金:Alloy Helm:α  Windproof+1  Defense Boost+1
+合金:Alloy Helm:β  Windproof+1  -1
+蛮颚龙:Anja Helm:α  Fire Attack+2  Fire Resistance+1  S:Anja:2:Adrenaline  S:Anja:4:Stamina Cap Up
+蛮颚龙:Anja Helm:β  Fire Attack+2  -2  S:Anja:2:Adrenaline  S:Anja:4:Stamina Cap Up
+骨锤龙:Baan Helm:α  Tremor Resistance+2
+骨锤龙:Baan Helm:β  Tremor Resistance+1  -2
+土砂龙:Barroth Helm:α  Guard+2
+土砂龙:Barroth Helm:β  Guard+1  -1
+爆鳞龙:Bazel Helm:α  Earplugs+2  Blast Attack+1  -2  S:Bazel:3:Guts
+爆鳞龙:Bazel Helm:β  Earplugs+2  -3-1  S:Bazel:3:Guts
+巴鲁特:Blossom Headgear:α  Honey Hunter+1  -1-1
+骨制:Bone Helm:α  Health Boost+1  Entomologist+1
+骨制:Bone Helm:β  Health Boost+1  -1
+旅团:Brigade Lobos:α  Recovery Speed+2  Horn Maestro+1
+旅团:Brigade Lobos:β  Recovery Speed+2  -1
+燕尾蝶:Butterfly Vertex:α  Evade Window+2  Botanist+1
+燕尾蝶:Butterfly Vertex:β  Evade Window+2  -1
+锁甲:Chainmail Headgear:α  Master Gatherer+1  Guard+1
+锁甲:Chainmail Headgear:β  Master Gatherer+1  -1
+追踪者:Commission Gorget:α  Tool Specialist+1  Master Gatherer+1  -1  S:Commission:4:Carving Master
+追踪者:Commission Gorget:β  Tool Specialist+1  -2  S:Commission:4:Carving Master
+大马士革:Damascus Helm:α  Defense Boost+2  Speed Sharpening+1  -1
+大马士革:Damascus Helm:β  Defense Boost+2  -3
+但丁:Dante's Hair:α  Weakness Exploit+1  Critical Eye+1  -1
+死神:Death Stench Brain:α  Resuscitate+1  Critical Eye+1  -2
+死神:Death Stench Brain:β  Resuscitate+1  -3
+角龙:Diablos Helm:α  Critical Draw+2  Heroics+1  S:Diablos:2:Bludgeoner  S:Diablos:4:Non-Elemental Boost
+角龙:Diablos Helm:β  Critical Draw+2  -2  S:Diablos:2:Bludgeoner  S:Diablos:4:Non-Elemental Boost
+暴君角龙:Diablos Nero Helm:α  Focus+2  -1  S:Diablos Nero:2:Bludgeoner  S:Diablos Nero:4:Non-Elemental Boost
+暴君角龙:Diablos Nero Helm:β  Focus+1  -3  S:Diablos Nero:2:Bludgeoner  S:Diablos Nero:4:Non-Elemental Boost
+杜宾:Dober Helm:α  Free Elem/Ammo Up+1  Dragon Resistance+1
+杜宾:Dober Helm:β  Free Elem/Ammo Up+1  -1
+岩贼龙:Dodogama Helm:α  Blast Resistance+2
+岩贼龙:Dodogama Helm:β  Blast Resistance+1  -1
+龙王独眼:Dragonking Eyepatch:α  Weakness Exploit+2  -3
+封龙耳饰:Dragonseal Earrings:α  Elderseal Boost+1
+艾路头套:Faux Felyne:α Helm  Palico Rally+3
+突击龙:Gastodon Horn:α  Flinch Free+1  Blast Resistance+1
+突击龙:Gastodon Horn:β  Flinch Free+1  -1
+凶颚龙:Girros Mask:α  Horn Maestro+1  Paralysis Resistance+1
+凶颚龙:Girros Mask:β  Horn Maestro+1  -1
+公会十字:Guild Cross Circlet:α  Divine Blessing+2  Thunder Resistance+2  -1  S:Guild Cross:4:Great Luck
+公会十字:Guild Cross Circlet:β  Divine Blessing+2  -1-1-1  S:Guild Cross:4:Great Luck
+矿石:High Metal Helm:α  Ice Resistance+2  Earplugs+1
+矿石:High Metal Helm:β  Ice Resistance+2  -2
+巨甲虫:Hornetaur Helm:α  Dungmaster+1  Dragon Attack+1
+巨甲虫:Hornetaur Helm:β  Dungmaster+1  -1
+猎人:Hunter's Headgear:α  Scoutfly Range Up+1  Scholar+1
+猎人:Hunter's Headgear:β  Scoutfly Range Up+1  -1
+铸铁:Ingot Helm:α  Thunder Attack+2
+铸铁:Ingot Helm:β  Thunder Attack+1  -1
+凶豺龙:Jagras Helm:α  Speed Eating+2
+凶豺龙:Jagras Helm:β  Speed Eating+1  -1
+泥鱼龙:Jyura Helm:α  Aquatic Expert+2
+泥鱼龙:Jyura Helm:β  Aquatic Expert+1  -1
+飞雷龙:Kadachi Helm:α  Constitution+2
+飞雷龙:Kadachi Helm:β  Constitution+1  -2
+帝王:Kaiser Crown:α  Latent Power+2  S:Kaiser:3:Master's Touch
+帝王:Kaiser Crown:β  Latent Power+1  -2  S:Kaiser:3:Master's Touch
+独角仙:King Beetle Vertex:α  Evade Window+2  Botanist+1
+独角仙:King Beetle Vertex:β  Evade Window+2  -1
+麒麟:Kirin Horn:α  Marathon Runner+2  Divine Blessing+1  S:Kirin:3:Capture Master
+麒麟:Kirin Horn:β  Marathon Runner+2  -1  S:Kirin:3:Capture Master
+麒麟:Kirin Horn:γ  Thunder Attack+3  Blight Resistance+1  -2  S:Kirin:3:Capture Master
+搔鸟:Kulu Headpiece:α  Fire Resistance+1  Weakness Exploit+1
+搔鸟:Kulu Headpiece:β  Fire Resistance+1  -1-1
+搔鸟头套:Kulu-Ya-Ku Head:α  Pro Transporter+1  -1-3
+灿辉龙:Kulve Taroth's Fury:α  Free Elem/Ammo Up+1  Agitator+2  -1
+灿辉龙:Kulve Taroth's Fury:β  Free Elem/Ammo Up+1  Agitator+1  -2-1
+钢龙:Kushala Glare:α  Ice Attack+2  Handicraft+1  S:Kushala:3:Nullify Wind Pressure
+钢龙:Kushala Glare:β  Ice Attack+2  -1-1-1  S:Kushala:3:Nullify Wind Pressure
+熔岩龙:Lavasioth Helm:α  Fire Attack+2  Quick Sheath+1
+熔岩龙:Lavasioth Helm:β  Fire Attack+1  Quick Sheath+1  -1-1
+皮制:Leather Headgear:α  Hunger Resistance+2
+皮制:Leather Headgear:β  Hunger Resistance+2  -1
+风漂龙:Legiana Helm:α  Divine Blessing+2  Ice Attack+1  S:Legiana:2:Good Luck  S:Legiana:4:Bow Charge Plus
+风漂龙:Legiana Helm:β  Divine Blessing+2  -1  S:Legiana:2:Good Luck  S:Legiana:4:Bow Charge Plus
+浮空龙:Lumu Hat:α  Stamina Surge+2
+浮空龙:Lumu Hat:β  Stamina Surge+1  -2
+菌猪头套:Mosswine Mask:α  Mushroomancer+2
+战纹:Nergigante Helm:α  Maximum Might+2  Attack Boost+1  -1  S:Nergigante:3:Hasten Recovery
+战纹:Nergigante Helm:β  Maximum Might+2  -1-1  S:Nergigante:3:Hasten Recovery
+惨爪龙:Odogaron Helm:α  Bleeding Resistance+2  Critical Eye+1  S:Odogaron:2:Punishing Draw  S:Odogaron:4:Protective Polish
+惨爪龙:Odogaron Helm:β  Bleeding Resistance+2  -2  S:Odogaron:2:Punishing Draw  S:Odogaron:4:Protective Polish
+毒妖鸟:Pukei Hood:α  Sporepuff Expert+2
+毒妖鸟:Pukei Hood:β  Sporepuff Expert+1  -1-1
+火龙心:Rath Heart Helm:α  Evade Extender+1  Poison Attack+1  S:Rath Heart:3:Poison Duration Up
+火龙心:Rath Heart Helm:β  Evade Extender+1  -2  S:Rath Heart:3:Poison Duration Up
+火龙魂:Rath Soul Helm:α  Critical Boost+1  Intimidator+2  S:Rath Soul:2:Critical Element  S:Rath Soul:4:Mind's Eye/Ballistic
+火龙魂:Rath Soul Helm:β  Critical Boost+1  -1-1  S:Rath Soul:2:Critical Element  S:Rath Soul:4:Mind's Eye/Ballistic
+火龙:Rathalos Helm:α  Attack Boost+2  Fire Attack+1  S:Rathalos:2:Critical Element  S:Rathalos:4:Mind's Eye/Ballistic
+火龙:Rathalos Helm:β  Attack Boost+2  -1  S:Rathalos:2:Critical Element  S:Rathalos:4:Mind's Eye/Ballistic
+雌火龙:Rathian Helm:α  Health Boost+2  Poison Attack+1
+雌火龙:Rathian Helm:β  Health Boost+1  Poison Attack+1  -1
+封印的眼罩:Sealed Eyepatch:α  Fire Resistance+1  -1-2
+墨镜:Shadow Shades:α  Stun Resistance+1  -1-1-1
+猫蜥龙:Shamos Goggles:α  Detector+1  Geologist+1
+猫蜥龙:Shamos Goggles:β  Detector+1  -1
+骷髅:Skull Mask:α  Handicraft+1  -2
+知性眼镜:Strategist Spectacles:α  Critical Eye+2  -1
+眩鸟:Tzitzi Headgear:α  Blindsider+1  Stun Resistance+1
+眩鸟:Tzitzi Headgear:β  Blindsider+1  -1
+爆锤龙:Uragaan Helm:α  Thunder Resistance+2  -3  S:Uragaan:3:Guard Up
+爆锤龙:Uragaan Helm:β  Thunder Resistance+1  -1-3  S:Uragaan:3:Guard Up
+乌尔德:Vaal Hazak Helm:α  Peak Performance+1  Dragon Attack+2  S:Vaal Hazak:3:Super Recovery
+乌尔德:Vaal Hazak Helm:β  Peak Performance+1  -1  S:Vaal Hazak:3:Super Recovery
+乌尔德:Vaal Hazak Helm:γ  Recovery Up+2  Dragon Attack+1  -3  S:Vaal Hazak:3:Super Recovery
+残虐:Vangis Helm:α  Partbreaker+1  Handicraft+1  -1
+残虐:Vangis Helm:β  Partbreaker+1  -1-3
+巨蜂:Vespoid Helm:α  Quick Sheath+1  Paralysis Attack+1
+巨蜂:Vespoid Helm:β  Quick Sheath+1  -1
+孑孓头套:Wiggler Head:α  Wide-Range+2  -1-1
+异种大型:Xeno'jiiva Headgear:α  Flinch Free+1  Special Ammo Boost+1  -1  S:Xeno'jiiva:3:Razor Sharp/Spare Shot
+异种大型:Xeno'jiiva Headgear:β  Flinch Free+1  -2  S:Xeno'jiiva:3:Razor Sharp/Spare Shot
+铸岛熔岩:Zorah Headgear:α  Handicraft+1  Blast Attack+1  S:Zorah:3:Critical Status
+铸岛熔岩:Zorah Headgear:β  Handicraft+1  -1  S:Zorah:3:Critical Status
+苍星之将:Azure Starlord Crown:α  Agitator+1  -3  S:Azure Starlord:2:Critical Element  S:Azure Starlord:4:Mind's Eye/Ballistic
+皇后:Empress Crown:α  Evade Extender+2  Tool Specialist+1  -3-1  S:Empress:2:Stamina Cap Up  S:Empress:4:Mind's Eye/Ballistic
+皇后:Empress Crown:β  Evade Extender+2  -3-2  S:Empress:2:Stamina Cap Up  S:Empress:4:Mind's Eye/Ballistic
+
+[胸:Chests]
+合金:Alloy Mail:α  Water Resistance+2
+合金:Alloy Mail:β  Water Resistance+1  -1
+蛮颚龙:Anja Mail:α  Marathon Runner+1  Special Ammo Boost+1  S:Anja:2:Adrenaline  S:Anja:4:Stamina Cap Up
+蛮颚龙:Anja Mail:β  Marathon Runner+1  -1-1  S:Anja:2:Adrenaline  S:Anja:4:Stamina Cap Up
+骨锤龙:Baan Mail:α  Sleep Attack+1  Bleeding Resistance+1
+骨锤龙:Baan Mail:β  Sleep Attack+1  -1
+酸翼龙:Barnos Jacket:α  Heat Guard+1  Iron Skin+1
+酸翼龙:Barnos Jacket:β  Heat Guard+1  -1
+土砂龙:Barroth Mail:α  Stamina Thief+2
+土砂龙:Barroth Mail:β  Stamina Thief+1  -1
+爆鳞龙:Bazel Mail:α  Guard+2  Blast Resistance+2  S:Bazel:3:Guts
+爆鳞龙:Bazel Mail:β  Guard+2  -1-1  S:Bazel:3:Guts
+巴鲁特:Blossom Vest:α  Quick Sheath+1  -1-1
+骨制:Bone Mail:α  Attack Boost+2
+骨制:Bone Mail:β  Attack Boost+1  -1
+旅团:Brigade Suit:α  Divine Blessing+2  -2
+旅团:Brigade Suit:β  Divine Blessing+1  -2-2
+燕尾蝶:Butterfly Thorax:α  Botanist+1  Quick Sheath+2
+燕尾蝶:Butterfly Thorax:β  Quick Sheath+2  -1
+锁甲:Chainmail Armor:α  Water Resistance+1
+锁甲:Chainmail Armor:β  -1
+追踪者:Commission Jacket:α  Wide-Range+2  Cliffhanger+1  S:Commission:4:Carving Master
+追踪者:Commission Jacket:β  Wide-Range+2  -1  S:Commission:4:Carving Master
+大马士革:Damascus Mail:α  Focus+2  Defense Boost+2  -1
+大马士革:Damascus Mail:β  Focus+2  -1-1-1
+但丁:Dante's Coat:α  Evade Window+1  Critical Eye+1  -3
+死神:Death Stench Muscle:α  Fortify+1  Free Elem/Ammo Up+1
+死神:Death Stench Muscle:β  Fortify+1  -3
+角龙:Diablos Mail:α  Slugger+1  Heroics+1  S:Diablos:2:Bludgeoner  S:Diablos:4:Non-Elemental Boost
+角龙:Diablos Mail:β  Slugger+2  -2  S:Diablos:2:Bludgeoner  S:Diablos:4:Non-Elemental Boost
+暴君角龙:Diablos Nero Mail:α  Resentment+2  -1  S:Diablos Nero:2:Bludgeoner  S:Diablos Nero:4:Non-Elemental Boost
+暴君角龙:Diablos Nero Mail:β  Resentment+1  -2-1  S:Diablos Nero:2:Bludgeoner  S:Diablos Nero:4:Non-Elemental Boost
+杜宾:Dober Mail:α  Attack Boost+2  Mushroomancer+1  -1
+杜宾:Dober Mail:β  Attack Boost+2  -3
+岩贼龙:Dodogama Mail:α  Blast Attack+2
+岩贼龙:Dodogama Mail:β  Blast Attack+1  -1
+凶颚龙:Girros Mail:α  Paralysis Resistance+2
+凶颚龙:Girros Mail:β  Paralysis Resistance+1  -1
+公会十字:Guild Cross Suit:α  Resuscitate+1  Ice Resistance+2  -1  S:Guild Cross:4:Great Luck
+公会十字:Guild Cross Suit:β  Resuscitate+1  -3  S:Guild Cross:4:Great Luck
+矿石:High Metal Mail:α  Earplugs+2  Ice Attack+1
+矿石:High Metal Mail:β  Earplugs+1  Ice Attack+1  -2
+巨甲虫:Hornetaur Mail:α  Effluvial Expert+1  Hunger Resistance+1
+巨甲虫:Hornetaur Mail:β  Effluvial Expert+1  -1
+猎人:Hunter's Mail:α  Slinger Capacity+2
+猎人:Hunter's Mail:β  Slinger Capacity+1  -1
+铸铁:Ingot Mail:α  Thunder Resistance+2
+铸铁:Ingot Mail:β  Thunder Resistance+1  -1
+凶豺龙:Jagras Mail:α  Intimidator+2
+凶豺龙:Jagras Mail:β  Intimidator+1  -1
+泥鱼龙:Jyura Mail:α  Muck Resistance+1  Water Attack+1
+泥鱼龙:Jyura Mail:β  Muck Resistance+1  -1
+飞雷龙:Kadachi Mail:α  Jump Master+1  Evade Extender+1
+飞雷龙:Kadachi Mail:β  Jump Master+1  -2
+帝王:Kaiser Mail:α  Special Ammo Boost+2  Latent Power+1  S:Kaiser:3:Master's Touch
+帝王:Kaiser Mail:β  Special Ammo Boost+2  -1-1  S:Kaiser:3:Master's Touch
+独角仙:King Beetle Thorax:α  Quick Sheath+2  Botanist+1
+独角仙:King Beetle Thorax:β  Quick Sheath+2  -1
+麒麟:Kirin Jacket:α  Divine Blessing+1  Thunder Attack+1  S:Kirin:3:Capture Master
+麒麟:Kirin Jacket:β  Divine Blessing+2  -1  S:Kirin:3:Capture Master
+麒麟:Kirin Jacket:γ  Free Elem/Ammo Up+2  -1-1  S:Kirin:3:Capture Master
+搔鸟:Kulu Mail:α  Stamina Surge+1  Critical Eye+1
+搔鸟:Kulu Mail:β  Stamina Surge+1  -1
+灿辉龙:Kulve Taroth's Ire:α  Stun Resistance+2  Critical Boost+2  -1
+灿辉龙:Kulve Taroth's Ire:β  Stun Resistance+2  Critical Boost+1  -3-1
+钢龙:Kushala Cista:α  Handicraft+2  Focus+1  S:Kushala:3:Nullify Wind Pressure
+钢龙:Kushala Cista:β  Handicraft+2  -2  S:Kushala:3:Nullify Wind Pressure
+熔岩龙:Lavasioth Mail:α  Fire Attack+2  Heat Guard+1
+熔岩龙:Lavasioth Mail:β  Fire Attack+2  -1-1
+皮制:Leather Mail:α  Fire Resistance+1
+皮制:Leather Mail:β  -1
+风漂龙:Legiana Mail:α  Evade Window+2  Divine Blessing+1  S:Legiana:2:Good Luck  S:Legiana:4:Bow Charge Plus
+风漂龙:Legiana Mail:β  Evade Window+2  -1  S:Legiana:2:Good Luck  S:Legiana:4:Bow Charge Plus
+浮空龙:Lumu Mail:α  Master Mounter+1  Artillery+1
+浮空龙:Lumu Mail:β  Master Mounter+1  -1
+战纹:Nergigante Mail:α  Stamina Surge+2  Agitator+1  -1  S:Nergigante:3:Hasten Recovery
+战纹:Nergigante Mail:β  Stamina Surge+2  -2-1  S:Nergigante:3:Hasten Recovery
+惨爪龙:Odogaron Mail:α  Speed Sharpening+2  Bleeding Resistance+1  S:Odogaron:2:Punishing Draw  S:Odogaron:4:Protective Polish
+惨爪龙:Odogaron Mail:β  Speed Sharpening+2  -1  S:Odogaron:2:Punishing Draw  S:Odogaron:4:Protective Polish
+毒妖鸟:Pukei Mail:α  Item Prolonger+1  Botanist+1
+毒妖鸟:Pukei Mail:β  Item Prolonger+1  -1
+火龙心:Rath Heart Mail:α  Tool Specialist+2  S:Rath Heart:3:Poison Duration Up
+火龙心:Rath Heart Mail:β  Tool Specialist+1  -1-1  S:Rath Heart:3:Poison Duration Up
+火龙魂:Rath Soul Mail:α  Free Elem/Ammo Up+1  Intimidator+1  -1  S:Rath Soul:2:Critical Element  S:Rath Soul:4:Mind's Eye/Ballistic
+火龙魂:Rath Soul Mail:β  Free Elem/Ammo Up+1  -2  S:Rath Soul:2:Critical Element  S:Rath Soul:4:Mind's Eye/Ballistic
+火龙:Rathalos Mail:α  Weakness Exploit+2  Fire Attack+1  S:Rathalos:2:Critical Element  S:Rathalos:4:Mind's Eye/Ballistic
+火龙:Rathalos Mail:β  Weakness Exploit+2  -1  S:Rathalos:2:Critical Element  S:Rathalos:4:Mind's Eye/Ballistic
+雌火龙:Rathian Mail:α  Botanist+2  Recovery Up+1
+雌火龙:Rathian Mail:β  Botanist+1  Recovery Up+1  -1
+眩鸟:Tzitzi Mail:α  Constitution+1  Water Attack+2
+眩鸟:Tzitzi Mail:β  Constitution+1  -1-1
+爆锤龙:Uragaan Mail:α  Partbreaker+2  -1  S:Uragaan:3:Guard Up
+爆锤龙:Uragaan Mail:β  Partbreaker+1  -3  S:Uragaan:3:Guard Up
+乌尔德:Vaal Hazak Mail:α  Recovery Speed+2  Dragon Attack+1  -1  S:Vaal Hazak:3:Super Recovery
+乌尔德:Vaal Hazak Mail:β  Recovery Speed+2  -1-1  S:Vaal Hazak:3:Super Recovery
+乌尔德:Vaal Hazak Mail:γ  Peak Performance+1  Recovery Up+1  -3  S:Vaal Hazak:3:Super Recovery
+残虐:Vangis Mail:α  Speed Eating+1  Handicraft+1  -2
+残虐:Vangis Mail:β  Speed Eating+1  -3
+巨蜂:Vespoid Mail:α  Windproof+2
+巨蜂:Vespoid Mail:β  Windproof+1  -1
+异种大型:Xeno'jiiva Hide:α  Power Prolonger+2  Blight Resistance+1  -1  S:Xeno'jiiva:3:Razor Sharp/Spare Shot
+异种大型:Xeno'jiiva Hide:β  Power Prolonger+2  -1-1  S:Xeno'jiiva:3:Razor Sharp/Spare Shot
+铸岛熔岩:Zorah Hide:α  Blast Attack+2  Windproof+1  S:Zorah:3:Critical Status
+铸岛熔岩:Zorah Hide:β  Blast Attack+2  -2  S:Zorah:3:Critical Status
+苍星之将:Azure Starlord Armor:α  Handicraft+1  -2  S:Azure Starlord:2:Critical Element  S:Azure Starlord:4:Mind's Eye/Ballistic
+皇后:Empress Mail:α  Peak Performance+2  Health Boost+1  -1-1  S:Empress:2:Stamina Cap Up  S:Empress:4:Mind's Eye/Ballistic
+皇后:Empress Mail:β  Peak Performance+2  -1-1-1  S:Empress:2:Stamina Cap Up  S:Empress:4:Mind's Eye/Ballistic
+
+[手:Arms]
+合金:Alloy Vambraces:α  Defense Boost+1  Speed Sharpening+1
+合金:Alloy Vambraces:β  Defense Boost+1  -1
+蛮颚龙:Anja Vambraces:α  Special Ammo Boost+1  Fire Attack+1  S:Anja:2:Adrenaline  S:Anja:4:Stamina Cap Up
+蛮颚龙:Anja Vambraces:β  Special Ammo Boost+1  -1  S:Anja:2:Adrenaline  S:Anja:4:Stamina Cap Up
+骨锤龙:Baan Vambraces:α  Sleep Attack+2  Guard+1
+骨锤龙:Baan Vambraces:β  Sleep Attack+1  Guard+1  -1
+土砂龙:Barroth Vambraces:α  Marathon Runner+1  Stamina Thief+1
+土砂龙:Barroth Vambraces:β  Marathon Runner+1  -1
+爆鳞龙:Bazel Vambraces:α  Critical Draw+2  Earplugs+1  S:Bazel:3:Guts
+爆鳞龙:Bazel Vambraces:β  Critical Draw+2  -3  S:Bazel:3:Guts
+巴鲁特:Blossom Cuffs:α  Paralysis Resistance+1  -1-1
+骨制:Bone Vambraces:α  Slugger+1  Attack Boost+1
+骨制:Bone Vambraces:β  Slugger+1  -1
+旅团:Brigade Vambraces:α  Heavy Artillery+2  Divine Blessing+1
+旅团:Brigade Vambraces:β  Heavy Artillery+2  -1
+燕尾蝶:Butterfly Brachia:α  Botanist+2  Leap of Faith+1
+燕尾蝶:Butterfly Brachia:β  Botanist+2  -2-1
+锁甲:Chainmail Gloves:α  Recovery Speed+1
+锁甲:Chainmail Gloves:β  -1
+追踪者:Commission Vambraces:α  Blindsider+1  Carving Pro+1  -1  S:Commission:4:Carving Master
+追踪者:Commission Vambraces:β  Blindsider+1  -2  S:Commission:4:Carving Master
+大马士革:Damascus Vambraces:α  Handicraft+1  Speed Sharpening+1
+大马士革:Damascus Vambraces:β  Handicraft+1  -1
+但丁:Dante's Gloves:α  Evade Window+1  Special Ammo Boost+1  -3
+死神:Death Stench Grip:α  Focus+2  Dragon Attack+1  -1
+死神:Death Stench Grip:β  Focus+2  -1-1
+暴君角龙:Diablos Nero Vambraces:α  Focus+1  Marathon Runner+1  S:Diablos Nero:2:Bludgeoner  S:Diablos Nero:4:Non-Elemental Boost
+暴君角龙:Diablos Nero Vambraces:β  Focus+1  -2-1  S:Diablos Nero:2:Bludgeoner  S:Diablos Nero:4:Non-Elemental Boost
+角龙:Diablos Vambraces:α  Heroics+2  Tremor Resistance+1  S:Diablos:2:Bludgeoner  S:Diablos:4:Non-Elemental Boost
+角龙:Diablos Vambraces:β  Heroics+2  -2  S:Diablos:2:Bludgeoner  S:Diablos:4:Non-Elemental Boost
+杜宾:Dober Vambraces:α  Stamina Surge+2  Mushroomancer+1
+杜宾:Dober Vambraces:β  Stamina Surge+1  Mushroomancer+1  -1-1
+岩贼龙:Dodogama Vambraces:α  Bombardier+2
+岩贼龙:Dodogama Vambraces:β  Bombardier+1  -1
+凶颚龙:Girros Vambraces:α  Palico Rally+2
+凶颚龙:Girros Vambraces:β  Palico Rally+1  -1
+公会十字:Guild Cross Vambraces:α  Tool Specialist+1  Water Resistance+2  -1  S:Guild Cross:4:Great Luck
+公会十字:Guild Cross Vambraces:β  Tool Specialist+1  -3  S:Guild Cross:4:Great Luck
+矿石:High Metal Braces:α  Defense Boost+2  Ice Attack+1
+矿石:High Metal Braces:β  Defense Boost+2  -1
+猎人:Hunter's Vambraces:α  Stealth+2
+猎人:Hunter's Vambraces:β  Stealth+1  -1
+巨甲虫:Hornetaur Vambraces:α  Free Meal+1  Hunger Resistance+1
+巨甲虫:Hornetaur Vambraces:β  Free Meal+1  -1
+铸铁:Ingot Vambraces:α  Health Boost+2  Thunder Attack+1
+铸铁:Ingot Vambraces:β  Health Boost+2  -1
+凶豺龙:Jagras Vambraces:α  Palico Rally+1  Intimidator+1
+凶豺龙:Jagras Vambraces:β  Palico Rally+1  -1
+泥鱼龙:Jyura Vambraces:α  Water Attack+2  Aquatic Expert+1
+泥鱼龙:Jyura Vambraces:β  Water Attack+2  -1
+飞雷龙:Kadachi Vambraces:α  Evade Extender+2
+飞雷龙:Kadachi Vambraces:β  Evade Extender+1  -2
+帝王:Kaiser Vambraces:α  Weakness Exploit+2  -1  S:Kaiser:3:Master's Touch
+帝王:Kaiser Vambraces:β  Weakness Exploit+1  -3  S:Kaiser:3:Master's Touch
+冠突龙:Kestodon Guards:α  Affinity Sliding+1  Focus+1
+冠突龙:Kestodon Guards:β  Affinity Sliding+1  -1
+独角仙:King Beetle Brachia:α  Botanist+2  Leap of Faith+1  -1
+独角仙:King Beetle Brachia:β  Botanist+2  -2-1
+麒麟:Kirin Longarms:α  Thunder Attack+2  Marathon Runner+1  S:Kirin:3:Capture Master
+麒麟:Kirin Longarms:β  Thunder Attack+2  -1-1  S:Kirin:3:Capture Master
+麒麟:Kirin Longarms:γ  Free Elem/Ammo Up+1  Blight Resistance+1  -2-2  S:Kirin:3:Capture Master
+搔鸟:Kulu Vambraces:α  Pro Transporter+1  Critical Eye+1
+搔鸟:Kulu Vambraces:β  Pro Transporter+1  -2
+灿辉龙:Kulve Taroth's Rage:α  Free Elem/Ammo Up+1  Power Prolonger+2  -1
+灿辉龙:Kulve Taroth's Rage:β  Free Elem/Ammo Up+1  Power Prolonger+1  -3-1
+钢龙:Kushala Grip:α  Evade Window+2  Handicraft+1  S:Kushala:3:Nullify Wind Pressure
+钢龙:Kushala Grip:β  Evade Window+2  -3  S:Kushala:3:Nullify Wind Pressure
+熔岩龙:Lavasioth Vambraces:α  Affinity Sliding+1  Wide-Range+1  -2
+熔岩龙:Lavasioth Vambraces:β  Affinity Sliding+1  -3
+皮制:Leather Gloves:α  Recovery Speed+1
+皮制:Leather Gloves:β  -1
+风漂龙:Legiana Vambraces:α  Airborne+1  Evade Window+1  S:Legiana:2:Good Luck  S:Legiana:4:Bow Charge Plus
+风漂龙:Legiana Vambraces:β  Airborne+1  -3  S:Legiana:2:Good Luck  S:Legiana:4:Bow Charge Plus
+浮空龙:Lumu Vambraces:α  Artillery+2
+浮空龙:Lumu Vambraces:β  Artillery+1  -1
+战纹:Nergigante Vambraces:α  Agitator+2  Attack Boost+1  S:Nergigante:3:Hasten Recovery
+战纹:Nergigante Vambraces:β  Agitator+2  -1  S:Nergigante:3:Hasten Recovery
+惨爪龙:Odogaron Vambraces:α  Constitution+1  Critical Eye+1  S:Odogaron:2:Punishing Draw  S:Odogaron:4:Protective Polish
+惨爪龙:Odogaron Vambraces:β  Constitution+1  -1  S:Odogaron:2:Punishing Draw  S:Odogaron:4:Protective Polish
+毒妖鸟:Pukei Vambraces:α  Poison Resistance+2  Poison Attack+1
+毒妖鸟:Pukei Vambraces:β  Poison Resistance+1  -1-1
+火龙心:Rath Heart Vambraces:α  Windproof+2  S:Rath Heart:3:Poison Duration Up
+火龙心:Rath Heart Vambraces:β  Windproof+1  -2  S:Rath Heart:3:Poison Duration Up
+火龙魂:Rath Soul Braces:α  Focus+1  Windproof+1  -1  S:Rath Soul:2:Critical Element  S:Rath Soul:4:Mind's Eye/Ballistic
+火龙魂:Rath Soul Braces:β  Focus+1  -2  S:Rath Soul:2:Critical Element  S:Rath Soul:4:Mind's Eye/Ballistic
+火龙:Rathalos Vambraces:α  Fire Resistance+2  Attack Boost+1  S:Rathalos:2:Critical Element  S:Rathalos:4:Mind's Eye/Ballistic
+火龙:Rathalos Vambraces:β  Fire Resistance+2  -1  S:Rathalos:2:Critical Element  S:Rathalos:4:Mind's Eye/Ballistic
+雌火龙:Rathian Vambraces:α  Poison Attack+2
+雌火龙:Rathian Vambraces:β  Poison Attack+1  -1
+眩鸟:Tzitzi Vambraces:α  Stun Resistance+2  Wide-Range+1
+眩鸟:Tzitzi Vambraces:β  Stun Resistance+2  -1
+爆锤龙:Uragaan Vambrace:α  Defense Boost+1  Guard+1  -1  S:Uragaan:3:Guard Up
+爆锤龙:Uragaan Vambrace:β  Guard+1  -2  S:Uragaan:3:Guard Up
+乌尔德:Vaal Hazak Braces:α  Peak Performance+1  Recovery Speed+1  -1  S:Vaal Hazak:3:Super Recovery
+乌尔德:Vaal Hazak Braces:β  Peak Performance+1  -1-1-1  S:Vaal Hazak:3:Super Recovery
+乌尔德:Vaal Hazak Braces:γ  Dragon Attack+3  -3-2  S:Vaal Hazak:3:Super Recovery
+残虐:Vangis Vambraces:α  Latent Power+2  Partbreaker+1
+残虐:Vangis Vambraces:β  Latent Power+2  -2
+巨蜂:Vespoid Vambraces:α  Paralysis Attack+2
+巨蜂:Vespoid Vambraces:β  Paralysis Attack+1  -1
+异种大型:Xeno'jiiva Claws:α  Flinch Free+1  Critical Boost+1  -1  S:Xeno'jiiva:3:Razor Sharp/Spare Shot
+异种大型:Xeno'jiiva Claws:β  Flinch Free+1  -3  S:Xeno'jiiva:3:Razor Sharp/Spare Shot
+铸岛熔岩:Zorah Claws:α  Free Elem/Ammo Up+1  Bombardier+1  S:Zorah:3:Critical Status
+铸岛熔岩:Zorah Claws:β  Free Elem/Ammo Up+1  -1  S:Zorah:3:Critical Status
+苍星之将:Azure Starlord Gauntlets:α  Recovery Up+2  -3  S:Azure Starlord:2:Critical Element  S:Azure Starlord:4:Mind's Eye/Ballistic
+皇后:Empress Vambraces:α  Wide-Range+2  Blast Attack+2  -3  S:Empress:2:Stamina Cap Up  S:Empress:4:Mind's Eye/Ballistic
+皇后:Empress Vambraces:β  Wide-Range+2  -2-3  S:Empress:2:Stamina Cap Up  S:Empress:4:Mind's Eye/Ballistic
+
+[腰:Waist]
+合金:Alloy Coil:α  Poison Resistance+1  Water Resistance+1
+合金:Alloy Coil:β  Poison Resistance+1  -1
+蛮颚龙:Anja Coil:α  Fire Resistance+2  Artillery+1  S:Anja:2:Adrenaline  S:Anja:4:Stamina Cap Up
+蛮颚龙:Anja Coil:β  Fire Resistance+2  -2  S:Anja:2:Adrenaline  S:Anja:4:Stamina Cap Up
+骨锤龙:Baan Coil:α  Guard+2
+骨锤龙:Baan Coil:β  Guard+1  -2
+土砂龙:Barroth Coil:α  Muck Resistance+1  Guard+1
+土砂龙:Barroth Coil:β  Muck Resistance+1  -2
+爆鳞龙:Bazel Coil:α  Earplugs+2  Jump Master+1  -1  S:Bazel:3:Guts
+爆鳞龙:Bazel Coil:β  Earplugs+2  -3  S:Bazel:3:Guts
+巴鲁特:Blossom Coat:α  Scoutfly Range Up+1  -1-1
+骨制:Bone Coil:α  Horn Maestro+1  Master Fisher+1
+骨制:Bone Coil:β  Horn Maestro+1  -1
+旅团:Brigade Coil:α  Geologist+2  Recovery Speed+1
+旅团:Brigade Coil:β  Geologist+2  -1
+燕尾蝶:Butterfly Elytra:α  Honey Hunter+1  Quick Sheath+1
+燕尾蝶:Butterfly Elytra:β  Honey Hunter+1  -2-1
+锁甲:Chainmail Belt:α  Quick Sheath+1
+锁甲:Chainmail Belt:β  -1
+追踪者:Commission Belt:α  Mushroomancer+1  Pro Transporter+1  -1  S:Commission:4:Carving Master
+追踪者:Commission Belt:β  Mushroomancer+1  -2  S:Commission:4:Carving Master
+大马士革:Damascus Coil:α  Focus+1  Iron Skin+2  -1
+大马士革:Damascus Coil:β  Focus+1  -1-1-1
+但丁:Dante's Belt:α  Evade Window+1  Latent Power+1  -3
+死神:Death Stench Bowels:α  Dragon Attack+2  Focus+1
+死神:Death Stench Bowels:β  Dragon Attack+2  -1-1
+角龙:Diablos Coil:α  Marathon Runner+2  Critical Draw+1  S:Diablos:2:Bludgeoner  S:Diablos:4:Non-Elemental Boost
+角龙:Diablos Coil:β  Marathon Runner+2  -2  S:Diablos:2:Bludgeoner  S:Diablos:4:Non-Elemental Boost
+暴君角龙:Diablos Nero Coil:α  Resentment+1  Partbreaker+1  S:Diablos Nero:2:Bludgeoner  S:Diablos Nero:4:Non-Elemental Boost
+暴君角龙:Diablos Nero Coil:β  Resentment+1  -2  S:Diablos Nero:2:Bludgeoner  S:Diablos Nero:4:Non-Elemental Boost
+杜宾:Dober Coil:α  Dragon Resistance+2  Attack Boost+1  -2
+杜宾:Dober Coil:β  Dragon Resistance+2  -3
+岩贼龙:Dodogama Coil:α  Artillery+2  Blast Resistance+1
+岩贼龙:Dodogama Coil:β  Artillery+2  -1
+凶颚龙:Girros Coil:α  Effluvial Expert+1  Paralysis Attack+1
+凶颚龙:Girros Coil:β  Effluvial Expert+1  -1
+公会十字:Guild Cross Coil:α  Fortify+1  Dragon Resistance+2  -1  S:Guild Cross:4:Great Luck
+公会十字:Guild Cross Coil:β  Fortify+1  -1-1-1  S:Guild Cross:4:Great Luck
+矿石:High Metal Coil:α  Capacity Boost+1  Defense Boost+1
+矿石:High Metal Coil:β  Capacity Boost+1  -1
+猎人:Hunter's Coil:α  Master Gatherer+1  Stealth+1
+猎人:Hunter's Coil:β  Master Gatherer+1  -1
+巨甲虫:Hornetaur Coil:α  Carving Pro+1  Hunger Resistance+1
+巨甲虫:Hornetaur Coil:β  Carving Pro+1  -1
+铸铁:Ingot Coil:α  Windproof+2
+铸铁:Ingot Coil:β  Windproof+1  -3
+凶豺龙:Jagras Coil:α  Fortify+1  Speed Eating+1
+凶豺龙:Jagras Coil:β  Fortify+1  -1
+泥鱼龙:Jyura Coil:α  Ice Resistance+2
+泥鱼龙:Jyura Coil:β  Ice Resistance+1  -1
+飞雷龙:Kadachi Coil:α  Thunder Attack+2  Thunder Resistance+1
+飞雷龙:Kadachi Coil:β  Thunder Attack+1  -1-1
+帝王:Kaiser Coil:α  Blast Attack+2  Weakness Exploit+1  S:Kaiser:3:Master's Touch
+帝王:Kaiser Coil:β  Blast Attack+2  -2  S:Kaiser:3:Master's Touch
+独角仙:King Beetle Elytra:α  Honey Hunter+1  Quick Sheath+1  -1
+独角仙:King Beetle Elytra:β  Honey Hunter+1  -2-1
+麒麟:Kirin Hoop:α  Blight Resistance+1  Free Elem/Ammo Up+1  S:Kirin:3:Capture Master
+麒麟:Kirin Hoop:β  Blight Resistance+1  -1-1-1  S:Kirin:3:Capture Master
+麒麟:Kirin Hoop:γ  Marathon Runner+2  -1-1  S:Kirin:3:Capture Master
+搔鸟:Kulu Coil:α  Item Prolonger+2
+搔鸟:Kulu Coil:β  Item Prolonger+1  -2
+灿辉龙:Kulve Taroth's Malice:α  Free Elem/Ammo Up+1  Handicraft+2  -1
+灿辉龙:Kulve Taroth's Malice:β  Free Elem/Ammo Up+1  Handicraft+1  -3-1
+钢龙:Kushala Cocoon:α  Ice Attack+2  Evade Extender+1  S:Kushala:3:Nullify Wind Pressure
+钢龙:Kushala Cocoon:β  Ice Attack+2  -1-1  S:Kushala:3:Nullify Wind Pressure
+熔岩龙:Lavasioth Coil:α  Quick Sheath+2  Recovery Up+1
+熔岩龙:Lavasioth Coil:β  Quick Sheath+2  -1
+皮制:Leather Belt:α  Stamina Surge+1
+皮制:Leather Belt:β  -1
+风漂龙:Legiana Coil:α  Ice Attack+2  Windproof+1  S:Legiana:2:Good Luck  S:Legiana:4:Bow Charge Plus
+风漂龙:Legiana Coil:β  Ice Attack+2  -2  S:Legiana:2:Good Luck  S:Legiana:4:Bow Charge Plus
+浮空龙:Lumu Coil:α  Divine Blessing+2
+浮空龙:Lumu Coil:β  Divine Blessing+1  -1
+战纹:Nergigante Coil:α  Attack Boost+2  Stamina Surge+1  S:Nergigante:3:Hasten Recovery
+战纹:Nergigante Coil:β  Attack Boost+2  -2  S:Nergigante:3:Hasten Recovery
+惨爪龙:Odogaron Coil:α  Critical Eye+2  Speed Sharpening+1  S:Odogaron:2:Punishing Draw  S:Odogaron:4:Protective Polish
+惨爪龙:Odogaron Coil:β  Critical Eye+2  -2  S:Odogaron:2:Punishing Draw  S:Odogaron:4:Protective Polish
+毒妖鸟:Pukei Coil:α  Poison Attack+2
+毒妖鸟:Pukei Coil:β  Poison Attack+1  -1
+火龙心:Rath Heart Coil:α  Handicraft+1  Poison Resistance+1  S:Rath Heart:3:Poison Duration Up
+火龙心:Rath Heart Coil:β  Handicraft+1  -1  S:Rath Heart:3:Poison Duration Up
+火龙魂:Rath Soul Coil:α  Windproof+2  Piercing Shots+1  S:Rath Soul:2:Critical Element  S:Rath Soul:4:Mind's Eye/Ballistic
+火龙魂:Rath Soul Coil:β  Windproof+2  -3  S:Rath Soul:2:Critical Element  S:Rath Soul:4:Mind's Eye/Ballistic
+火龙:Rathalos Coil:α  Fire Attack+2  Focus+1  S:Rathalos:2:Critical Element  S:Rathalos:4:Mind's Eye/Ballistic
+火龙:Rathalos Coil:β  Fire Attack+2  -2  S:Rathalos:2:Critical Element  S:Rathalos:4:Mind's Eye/Ballistic
+雌火龙:Rathian Coil:α  Poison Resistance+2  Health Boost+1
+雌火龙:Rathian Coil:β  Poison Resistance+1  Health Boost+1  -1
+眩鸟:Tzitzi Coil:α  Wide-Range+2  Water Attack+1
+眩鸟:Tzitzi Coil:β  Wide-Range+1  -2
+爆锤龙:Uragaan Coil:α  Partbreaker+1  Thunder Resistance+1  -1-1  S:Uragaan:3:Guard Up
+爆锤龙:Uragaan Coil:β  Partbreaker+1  -2-1  S:Uragaan:3:Guard Up
+残虐:Vangis Coil:α  Latent Power+1  Handicraft+1  -1
+残虐:Vangis Coil:β  Latent Power+1  -1-3
+乌尔德:Vaal Hazak Coil:α  Peak Performance+1  Effluvia Resistance+1  -1  S:Vaal Hazak:3:Super Recovery
+乌尔德:Vaal Hazak Coil:β  Peak Performance+1  -1-1  S:Vaal Hazak:3:Super Recovery
+乌尔德:Vaal Hazak Coil:γ  Recovery Speed+2  Dragon Attack+1  -2-1-1  S:Vaal Hazak:3:Super Recovery
+巨蜂:Vespoid Coil:α  Paralysis Resistance+2
+巨蜂:Vespoid Coil:β  Paralysis Resistance+1  -1
+异种大型:Xeno'jiiva Spine:α  Blight Resistance+2  Special Ammo Boost+1  -2  S:Xeno'jiiva:3:Razor Sharp/Spare Shot
+异种大型:Xeno'jiiva Spine:β  Blight Resistance+2  -2-1  S:Xeno'jiiva:3:Razor Sharp/Spare Shot
+铸岛熔岩:Zorah Spine:α  Fortify+1  Tremor Resistance+1  S:Zorah:3:Critical Status
+铸岛熔岩:Zorah Spine:β  Fortify+1  -2  S:Zorah:3:Critical Status
+苍星之将:Azure Starlord Tassets:α  Handicraft+1  -2  S:Azure Starlord:2:Critical Element  S:Azure Starlord:4:Mind's Eye/Ballistic
+皇后:Empress Coil:α  Tool Specialist+2  Blast Attack+1  -2-1  S:Empress:2:Stamina Cap Up  S:Empress:4:Mind's Eye/Ballistic
+皇后:Empress Coil:β  Tool Specialist+2  -2-2  S:Empress:2:Stamina Cap Up  S:Empress:4:Mind's Eye/Ballistic
+
+[腿:Legs]
+合金:Alloy Greaves:α  Speed Sharpening+2
+合金:Alloy Greaves:β  Speed Sharpening+1  -1
+蛮颚龙:Anja Greaves:α  Artillery+2  S:Anja:2:Adrenaline  S:Anja:4:Stamina Cap Up
+蛮颚龙:Anja Greaves:β  Artillery+1  -1  S:Anja:2:Adrenaline  S:Anja:4:Stamina Cap Up
+骨锤龙:Baan Greaves:α  Bleeding Resistance+2
+骨锤龙:Baan Greaves:β  Bleeding Resistance+1  -1
+土砂龙:Barroth Greaves:α  Stun Resistance+2  Marathon Runner+1
+土砂龙:Barroth Greaves:β  Stun Resistance+1  -1-1
+爆鳞龙:Bazel Greaves:α  Bombardier+2  Critical Draw+1  -1  S:Bazel:3:Guts
+爆鳞龙:Bazel Greaves:β  Bombardier+2  -3  S:Bazel:3:Guts
+巴鲁特:Blossom Boots:α  Recovery Speed+1  -1-1
+骨制:Bone Greaves:α  Entomologist+2
+骨制:Bone Greaves:β  Entomologist+1  -1
+旅团:Brigade Boots:α  Scholar+1  Geologist+1  -1
+旅团:Brigade Boots:β  Scholar+1  -3
+燕尾蝶:Butterfly Crura:α  Forager's Luck+1  Evade Window+1
+燕尾蝶:Butterfly Crura:β  Forager's Luck+1  -2-1
+锁甲:Chainmail Trousers:α  Recovery Up+1
+锁甲:Chainmail Trousers:β  -1
+追踪者:Commission Pants:α  Stealth+2  Affinity Sliding+1  S:Commission:4:Carving Master
+追踪者:Commission Pants:β  Stealth+2  -2  S:Commission:4:Carving Master
+大马士革:Damascus Greaves:α  Defense Boost+2  Iron Skin+1  -1
+大马士革:Damascus Greaves:β  Defense Boost+2  -3
+但丁:Dante's Leather Boots:α  Weakness Exploit+2  -1-1
+死神:Death Stench Heel:α  Handicraft+2  Dragon Attack+2
+死神:Death Stench Heel:β  Handicraft+2  -1-1
+角龙:Diablos Greaves:α  Tremor Resistance+2  Slugger+1  S:Diablos:2:Bludgeoner  S:Diablos:4:Non-Elemental Boost
+角龙:Diablos Greaves:β  Tremor Resistance+2  -1-1  S:Diablos:2:Bludgeoner  S:Diablos:4:Non-Elemental Boost
+暴君角龙:Diablos Nero Greaves:α  Normal Shots+1  Heroics+1  -1  S:Diablos Nero:2:Bludgeoner  S:Diablos Nero:4:Non-Elemental Boost
+暴君角龙:Diablos Nero Greaves:β  Normal Shots+1  -2  S:Diablos Nero:2:Bludgeoner  S:Diablos Nero:4:Non-Elemental Boost
+杜宾:Dober Greaves:α  Attack Boost+2  Stamina Surge+1
+杜宾:Dober Greaves:β  Attack Boost+2  -1
+岩贼龙:Dodogama Greaves:α  Capacity Boost+1  Blast Attack+1
+岩贼龙:Dodogama Greaves:β  Capacity Boost+1  -1
+咬鱼:Gajau Boots:α  Aquatic Expert+2  Water Attack+1
+咬鱼:Gajau Boots:β  Aquatic Expert+1  Water Attack+1  -1
+凶颚龙:Girros Greaves:α  Paralysis Attack+2
+凶颚龙:Girros Greaves:β  Paralysis Attack+1  -1
+公会十字:Guild Cross Boots:α  Airborne+1  Fire Resistance+2  -1  S:Guild Cross:4:Great Luck
+公会十字:Guild Cross Boots:β  Airborne+1  -3  S:Guild Cross:4:Great Luck
+矿石:High Metal Greaves:α  Heavy Artillery+1  Ice Resistance+1
+矿石:High Metal Greaves:β  Heavy Artillery+1  -1
+巨甲虫:Hornetaur Greaves:α  Handicraft+1  Dragon Attack+1
+巨甲虫:Hornetaur Greaves:β  Handicraft+1  -1
+猎人:Hunter's Greaves:α  Scenthound+1  Slinger Capacity+1
+猎人:Hunter's Greaves:β  Scenthound+1  -1
+铸铁:Ingot Greaves:α  Defense Boost+2  Windproof+1
+铸铁:Ingot Greaves:β  Defense Boost+2  -2
+凶豺龙:Jagras Greaves:α  Speed Crawler+1  Free Meal+1
+凶豺龙:Jagras Greaves:β  Speed Crawler+1  -1
+泥鱼龙:Jyura Greaves:α  Focus+2
+泥鱼龙:Jyura Greaves:β  Focus+1  -2
+飞雷龙:Kadachi Greaves:α  Thunder Resistance+2  Constitution+1
+飞雷龙:Kadachi Greaves:β  Thunder Resistance+2  -1-1
+帝王:Kaiser Greaves:α  Latent Power+2  Blast Attack+1  S:Kaiser:3:Master's Touch
+帝王:Kaiser Greaves:β  Latent Power+2  -1  S:Kaiser:3:Master's Touch
+独角仙:King Beetle Crura:α  Forager's Luck+1  Evade Window+1  -1
+独角仙:King Beetle Crura:β  Forager's Luck+1  -2-1
+麒麟:Kirin Leg Guards:α  Thunder Resistance+2  Free Elem/Ammo Up+2  S:Kirin:3:Capture Master
+麒麟:Kirin Leg Guard:β  Free Elem/Ammo Up+2  -1-1  S:Kirin:3:Capture Master
+麒麟:Kirin Leg Guard:γ  Thunder Attack+2  Blight Resistance+1  -3  S:Kirin:3:Capture Master
+搔鸟:Kulu Greaves:α  Critical Eye+1  Item Prolonger+1
+搔鸟:Kulu Greaves:β  Critical Eye+1  -1
+灿辉龙:Kulve Taroth's Wrath:α  Wide-Range+2  Peak Performance+2  -1
+灿辉龙:Kulve Taroth's Wrath:β  Wide-Range+2  Peak Performance+1  -2-1
+钢龙:Kushala Crus:α  Evade Extender+2  Handicraft+1  S:Kushala:3:Nullify Wind Pressure
+钢龙:Kushala Crus:β  Evade Extender+2  -3  S:Kushala:3:Nullify Wind Pressure
+熔岩龙:Lavasioth Greaves:α  Spread/Power Shots+1  Fire Attack+1  -1
+熔岩龙:Lavasioth Greaves:β  Spread/Power Shots+1  -2
+皮制:Leather Trousers:α  Cliffhanger+1
+皮制:Leather Trousers:β  -1
+风漂龙:Legiana Greaves:α  Ice Resistance+2  Critical Draw+1  S:Legiana:2:Good Luck  S:Legiana:4:Bow Charge Plus
+风漂龙:Legiana Greaves:β  Ice Resistance+2  -3  S:Legiana:2:Good Luck  S:Legiana:4:Bow Charge Plus
+浮空龙:Lumu Greaves:α  Windproof+1  Stamina Surge+1
+浮空龙:Lumu Greaves:β  Windproof+1  -1-1
+战纹:Nergigante Greaves:α  Maximum Might+1  Agitator+1  -1  S:Nergigante:3:Hasten Recovery
+战纹:Nergigante Greaves:β  Maximum Might+1  -2  S:Nergigante:3:Hasten Recovery
+惨爪龙:Odogaron Greaves:α  Quick Sheath+1  Critical Eye+1  S:Odogaron:2:Punishing Draw  S:Odogaron:4:Protective Polish
+惨爪龙:Odogaron Greaves:β  Quick Sheath+1  -1  S:Odogaron:2:Punishing Draw  S:Odogaron:4:Protective Polish
+毒妖鸟:Pukei Greaves:α  Botanist+2  Sporepuff Expert+1
+毒妖鸟:Pukei Greaves:β  Botanist+1  -2
+火龙心:Rath Heart Greaves:α  Tool Specialist+1  Windproof+1  S:Rath Heart:3:Poison Duration Up
+火龙心:Rath Heart Greaves:β  Tool Specialist+1  -2  S:Rath Heart:3:Poison Duration Up
+火龙魂:Rath Soul Greaves:α  Focus+1  Cliffhanger+1  S:Rath Soul:2:Critical Element  S:Rath Soul:4:Mind's Eye/Ballistic
+火龙魂:Rath Soul Greaves:β  Focus+1  -1  S:Rath Soul:2:Critical Element  S:Rath Soul:4:Mind's Eye/Ballistic
+火龙:Rathalos Greaves:α  Jump Master+1  Weakness Exploit+1  S:Rathalos:2:Critical Element  S:Rathalos:4:Mind's Eye/Ballistic
+火龙:Rathalos Greaves:β  Jump Master+1  -3  S:Rathalos:2:Critical Element  S:Rathalos:4:Mind's Eye/Ballistic
+雌火龙:Rathian Greaves:α  Recovery Up+2
+雌火龙:Rathian Greaves:β  Recovery Up+1  -1
+眩鸟:Tzitzi Greaves:α  Sleep Resistance+2
+眩鸟:Tzitzi Greaves:β  Sleep Resistance+1  -1
+爆锤龙:Uragaan Greaves:α  Guard+2  -1  S:Uragaan:3:Guard Up
+爆锤龙:Uragaan Greaves:β  Guard+1  -3  S:Uragaan:3:Guard Up
+乌尔德:Vaal Hazak Greaves:α  Effluvia Resistance+2  Dragon Attack+1  -1  S:Vaal Hazak:3:Super Recovery
+乌尔德:Vaal Hazak Greaves:β  Effluvia Resistance+2  -1-1  S:Vaal Hazak:3:Super Recovery
+乌尔德:Vaal Hazak Greaves:γ  Peak Performance+1  Recovery Speed+1  -3-1  S:Vaal Hazak:3:Super Recovery
+残虐:Vangis Greaves:α  Speed Eating+2  Partbreaker+1
+残虐:Vangis Greaves:β  Speed Eating+2  -1-1
+巨蜂:Vespoid Greaves:α  Honey Hunter+1  Paralysis Resistance+1
+巨蜂:Vespoid Greaves:β  Honey Hunter+1  -1
+异种大型:Xeno'jiiva Spurs:α  Flinch Free+1  Power Prolonger+1  -1  S:Xeno'jiiva:3:Razor Sharp/Spare Shot
+异种大型:Xeno'jiiva Spurs:β  Flinch Free+1  -1-1  S:Xeno'jiiva:3:Razor Sharp/Spare Shot
+铸岛熔岩:Zorah Spurs:α  Bombardier+2  Earplugs+1  S:Zorah:3:Critical Status
+铸岛熔岩:Zorah Spurs:β  Bombardier+2  -2  S:Zorah:3:Critical Status
+苍星之将:Azure Starlord Guards:α  Critical Boost+1  -3  S:Azure Starlord:2:Critical Element  S:Azure Starlord:4:Mind's Eye/Ballistic
+皇后:Empress Greaves:α  Health Boost+2  Wide-Range+2  -2-1  S:Empress:2:Stamina Cap Up  S:Empress:4:Mind's Eye/Ballistic
+皇后:Empress Greaves:β  Health Boost+2  -2-2  S:Empress:2:Stamina Cap Up  S:Empress:4:Mind's Eye/Ballistic
